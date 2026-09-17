@@ -5,6 +5,7 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
     <!-- Discord Invite: https://discord.gg/FP8dQj6KBj -->
     <MarkerCategory name="mmm" DisplayName="Metal Marker Myriad" texture="Data/Icons/default_trail.png" iconFile="Data/Icons/default_marker.png" fadeNear="3000" fadeFar="5000"></MarkerCategory>
     <POIs>
+		<!-- VISIONS OF ETERNITY -->
 		<!-- Shipwreck Strand -->
         <POI MapID="1595" xpos="576.832" ypos="14.3701" zpos="591.821" type="mmm.rifthunting.t1" GUID="6++JHZ+2fUuMrs1hIALXKA=="/>
         <POI MapID="1595" xpos="202.433" ypos="5.26605" zpos="155.459" type="mmm.rifthunting.t1" GUID="Loo1wdL+1kG63fibcQeBkg=="/>
@@ -31,6 +32,31 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1593" xpos="-480.786" ypos="65.3912" zpos="-181.505" type="mmm.rifthunting.t3" GUID="SfuU+jG3iUmd3LONEIUJ2w=="/>
         <POI MapID="1593" xpos="-772.248" ypos="62.1873" zpos="-494.155" type="mmm.rifthunting.t3" GUID="GN0rkKPv0kWj3y7HZ6gEvA=="/>
         <POI MapID="1593" xpos="-731.413" ypos="83.1545" zpos="326.66" type="mmm.rifthunting.t3" GUID="b25kdW6qw0KutWzYeDBZ9A=="/>
+		<!-- Eternity's Garden -->
+        <POI MapID="1622" xpos="356.096" ypos="1.52939" zpos="-283.224" type="mmm.rifthunting.t1" GUID="y7aFTrL0cU2H9UXOYQWpcg=="/>
+        <POI MapID="1622" xpos="442.387" ypos="3.18888" zpos="-696.71" type="mmm.rifthunting.t1" GUID="2KVWX2PCaEGD9ro/xxD3fQ=="/>
+        <POI MapID="1622" xpos="-125.963" ypos="2.62043" zpos="-408.055" type="mmm.rifthunting.t1" GUID="kv4wshmQbU2DmtA07e9F7g=="/>
+        <POI MapID="1622" xpos="91.4978" ypos="74.9681" zpos="-561.087" type="mmm.rifthunting.t1" GUID="Iyyn9qF5q0WhuuEEz49z4w=="/>
+        <POI MapID="1622" xpos="198.769" ypos="108.71" zpos="-492.101" type="mmm.rifthunting.t1" GUID="qHUHMdXBqkysPLL5wlrNhA=="/>
+        <POI MapID="1622" xpos="-375.89" ypos="2.37463" zpos="-315.724" type="mmm.rifthunting.t2" GUID="AfaOwB+wpkSwEg+rvNLtuw=="/>
+        <POI MapID="1622" xpos="-198.353" ypos="142.794" zpos="500.748" type="mmm.rifthunting.t2" GUID="4bSpQXwdZEOJ30VPMK/Vqw=="/>
+        <POI MapID="1622" xpos="-416.159" ypos="1.76614" zpos="142.565" type="mmm.rifthunting.t2" GUID="pCIjYiZGs0yN7O0tKQst/A=="/>
+        <POI MapID="1622" xpos="114.482" ypos="277.02" zpos="834.128" type="mmm.rifthunting.t3" GUID="CZ1ltqHglk6F8pB+hhMs7g=="/>
+        <POI MapID="1622" xpos="429.33" ypos="141.796" zpos="834.783" type="mmm.rifthunting.t3" GUID="vaXt6v+6w0ugwJlvB4snFg=="/>
+        <POI MapID="1622" xpos="63.5979" ypos="1.17116" zpos="436.429" type="mmm.rifthunting.t3" GUID="8CGFDQlaRkurR7kFd/h03g=="/>
+        <!-- Leyspring Hollow -->
+        <POI MapID="1633" xpos="-714.211" ypos="37.7203" zpos="-351.844" type="mmm.rifthunting.t1" GUID="l9O88vsDDEKVIxKVOevRfQ=="/>
+        <POI MapID="1633" xpos="376.698" ypos="108.135" zpos="83.3041" type="mmm.rifthunting.t1" GUID="1jqBOtPenkuCOUMAQpnTJQ=="/>
+        <POI MapID="1633" xpos="776.636" ypos="80.1693" zpos="-490.847" type="mmm.rifthunting.t1" GUID="gzKfNzfQ+EWMxcOMkqhZ0g=="/>
+        <POI MapID="1633" xpos="636.107" ypos="167.647" zpos="-98.9042" type="mmm.rifthunting.t1" GUID="It9chnOOgUWMS+3Qcn26PA=="/>
+        <POI MapID="1633" xpos="526.481" ypos="139.411" zpos="-28.0041" type="mmm.rifthunting.t1" GUID="BnjlJBLnl02DuuaC6B8E0w=="/>
+        <POI MapID="1633" xpos="-305.86" ypos="116.499" zpos="595.491" type="mmm.rifthunting.t2" GUID="2FkOFD1jf0S8c3qcqSON2g=="/>
+        <POI MapID="1633" xpos="-417.764" ypos="110.272" zpos="219.884" type="mmm.rifthunting.t2" GUID="cjeYplaATkeSUTBuLS1JiQ=="/>
+        <POI MapID="1633" xpos="-496.259" ypos="71.1474" zpos="-233.184" type="mmm.rifthunting.t2" GUID="RwXw7+Ko9UaZL3ZpTd7V9A=="/>
+        <POI MapID="1633" xpos="13.2686" ypos="34.9604" zpos="-62.6735" type="mmm.rifthunting.t3" GUID="A0yEk4nn/UqoyIeh4SH+pQ=="/>
+        <POI MapID="1633" xpos="-91.1965" ypos="60.5896" zpos="451.708" type="mmm.rifthunting.t3" GUID="+Mstw2gNAUi5vWhuWJ055A=="/>
+        <POI MapID="1633" xpos="-164.238" ypos="0.769291" zpos="-526.191" type="mmm.rifthunting.t3" GUID="je/Q/daPpUSdGFMrS7ZFEQ=="/>
+		<!-- JANTHIR WILDS -->
 		<!-- Lowland Shore -->
         <POI MapID="1550" xpos="-46.44162" ypos="308.7656" zpos="-339.2174" type="mmm.rifthunting.t1" GUID="mEm5+eGMWkC/Ui7hrMHO/A=="/>
 		<POI MapID="1550" xpos="597.035" ypos="322.636" zpos="-622.586" type="mmm.rifthunting.t1" GUID="cRwW1wWlGUW/+OCUO+3Rbg=="/>
@@ -38,12 +64,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1550" xpos="355.594" ypos="323.235" zpos="-279.617" type="mmm.rifthunting.t1" GUID="eH+eedB++0ygehpBoW2/qw=="/>
         <POI MapID="1550" xpos="410.881" ypos="324.916" zpos="-133.032" type="mmm.rifthunting.t1" GUID="DowRI2UQyE+7qr9+SZbYew=="/>
         <POI MapID="1550" xpos="-46.4391" ypos="308.834" zpos="-338.916" type="mmm.rifthunting.t1" GUID="pn3vY+IX2keTTd6lIKtl/w=="/>
-	    
         <POI MapID="1550" xpos="955.165" ypos="385.823" zpos="-280.83" type="mmm.rifthunting.t2" GUID="yE4+R+ixLUK/FmrtYv5zNA=="/>
         <POI MapID="1550" xpos="-423.523" ypos="309.043" zpos="-597.654" type="mmm.rifthunting.t2" GUID="TZ3JsK3VkUWegneP1bSvBQ=="/>
         <POI MapID="1550" xpos="-975.071" ypos="1.55033" zpos="216.563" type="mmm.rifthunting.t2" GUID="8O9GTWueGky2yGPDBV4rdA=="/>
         <POI MapID="1550" xpos="-176.423" ypos="220.173" zpos="-104.903" type="mmm.rifthunting.t2" GUID="/EzQ9zd1DU26RdTBZTw0bA=="/>
-
 		<POI MapID="1550" xpos="1009.878" ypos="379.3091" zpos="-172.3495" type="mmm.rifthunting.t3" GUID="kTejS6/HAEmGegfg2p9M3g=="/>
 		<POI MapID="1550" xpos="1010.19" ypos="379.497" zpos="-171.669" type="mmm.rifthunting.t3" GUID="zQfUIiluwkCEaxU/NnxQsA=="/>
         <POI MapID="1550" xpos="-768.417" ypos="42.7104" zpos="400.871" type="mmm.rifthunting.t3" GUID="xCHY/O5wNEeC94bxuXn6qQ=="/>
@@ -55,12 +79,10 @@ xmlns="https://github.com/xrandox/Gw2_Marker_Pack_DTD_XSD">
         <POI MapID="1554" xpos="214.19" ypos="11.146" zpos="-524.996" type="mmm.rifthunting.t1" GUID="Jm3ZyzgzNUyIGnJ5z6e3kA=="/>
         <POI MapID="1554" xpos="-8.29059" ypos="43.5255" zpos="-552.901" type="mmm.rifthunting.t1" GUID="+D4xTBNvSkaBQFLu4f9Ciw=="/>
         <POI MapID="1554" xpos="-372.503" ypos="103.296" zpos="162.774" type="mmm.rifthunting.t1" GUID="+c57UgenOkWbfQ9P7vVGPg=="/>
-	    
         <POI MapID="1554" xpos="521.368" ypos="7.66727" zpos="-122.708" type="mmm.rifthunting.t2" GUID="aTFw/eYX5ESVhw0etGL0ZA=="/>
         <POI MapID="1554" xpos="524.077" ypos="1.33755" zpos="318.902" type="mmm.rifthunting.t2" GUID="UOZy4wG44ku9GW4JHnSUIA=="/>
         <POI MapID="1554" xpos="-181.787" ypos="105.609" zpos="421.745" type="mmm.rifthunting.t2" GUID="x+xeD3TWrUWOJe8yjckpXg=="/>
         <POI MapID="1554" xpos="373.825" ypos="2.97405" zpos="-378.412" type="mmm.rifthunting.t2" GUID="dVZtBuDO60Kak5JeDijpow=="/>
-	    
         <POI MapID="1554" xpos="478.414" ypos="2.34901" zpos="475.487" type="mmm.rifthunting.t3" GUID="ZxdxpeYkB0iCiSDtxUs3eQ=="/>
         <POI MapID="1554" xpos="-355.483" ypos="36.2344" zpos="655.102" type="mmm.rifthunting.t3" GUID="MXaHIalSxESPjPQR6pIWQQ=="/>
         <POI MapID="1554" xpos="-573.799" ypos="37.5887" zpos="366.491" type="mmm.rifthunting.t3" GUID="SD/P8N2+m0mtPD2DcfMpVw=="/>
